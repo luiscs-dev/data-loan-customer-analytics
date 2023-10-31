@@ -1,0 +1,231 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Mexico City,19.4333,-99.1333,Mexico,MX,Ciudad de México,primary,21804000,9209944
+Guadalajara,20.6767,-103.3475,Mexico,MX,Jalisco,admin,5525000,1385621
+Monterrey,25.6667,-100.3000,Mexico,MX,Nuevo León,admin,5341171,1135512
+Tijuana,32.5250,-117.0333,Mexico,MX,Baja California,minor,2002000,1922523
+Ecatepec,19.6097,-99.0600,Mexico,MX,Estado de México,minor,1929926,1929926
+León de los Aldama,21.1167,-101.6833,Mexico,MX,Guanajuato,minor,1579803,1579803
+Puebla,19.0333,-98.1833,Mexico,MX,Puebla,admin,1576259,1576259
+Zapopan,20.7167,-103.4000,Mexico,MX,Jalisco,minor,1476491,1476491
+Juárez,31.7386,-106.4870,Mexico,MX,Chihuahua,minor,1321004,1321004
+Ciudad Nezahualcóyotl,19.4081,-99.0186,Mexico,MX,Estado de México,,1109363,1077208
+Mexicali,32.6633,-115.4678,Mexico,MX,Baja California,admin,1102342,1049792
+Nezahualcóyotl,19.4006,-99.0148,Mexico,MX,Estado de México,minor,1077208,1077208
+Morelia,19.7683,-101.1894,Mexico,MX,Michoacán,,962555,962555
+Cancún,21.1606,-86.8475,Mexico,MX,Quintana Roo,minor,888797,888797
+Saltillo,25.4231,-100.9919,Mexico,MX,Coahuila,admin,864431,864431
+Tlajomulco de Zúñiga,20.4736,-103.4431,Mexico,MX,Jalisco,minor,727750,727750
+Tlaquepaque,20.6167,-103.3167,Mexico,MX,Jalisco,minor,664193,664193
+Durango,24.0250,-104.6675,Mexico,MX,Durango,admin,654876,654876
+Tlalnepantla,19.5367,-99.1947,Mexico,MX,Estado de México,minor,653410,653410
+Chimalhuacán,19.4167,-98.9000,Mexico,MX,Estado de México,minor,614453,614453
+Tultitlán de Mariano Escobedo,19.6450,-99.1694,Mexico,MX,Estado de México,minor,520557,520557
+San Nicolás de los Garza,25.7500,-100.2833,Mexico,MX,Nuevo León,minor,443273,443273
+Veracruz,19.1903,-96.1533,Mexico,MX,Veracruz,minor,428323,428323
+Orizaba,18.8500,-97.1000,Mexico,MX,Veracruz,minor,355333,355333
+Uruapan,19.4208,-102.0628,Mexico,MX,Michoacán,minor,334749,334749
+Salamanca,20.5703,-101.1972,Mexico,MX,Guanajuato,minor,327169,327169
+Playa del Carmen,20.6281,-87.0755,Mexico,MX,Quintana Roo,minor,304942,304942
+Coacalco,19.6333,-99.0931,Mexico,MX,Estado de México,minor,293444,293444
+Heroica Nogales,31.3186,-110.9458,Mexico,MX,Sonora,minor,261137,261137
+Campeche,19.8500,-90.5306,Mexico,MX,Campeche,admin,249623,249623
+Puerto Vallarta,20.6458,-105.2222,Mexico,MX,Jalisco,minor,224166,224166
+Toluca,19.2925,-99.6569,Mexico,MX,Estado de México,admin,223876,223876
+Guadalupe,22.7528,-102.5078,Mexico,MX,Zacatecas,minor,215000,215000
+Zamora,19.9833,-102.2833,Mexico,MX,Michoacán,,207860,207860
+Ciudad del Carmen,18.6333,-91.8333,Mexico,MX,Campeche,minor,191238,191238
+Chilpancingo,17.5500,-99.5000,Mexico,MX,Guerrero,admin,187251,187251
+San Cristóbal,16.7370,-92.6376,Mexico,MX,Chiapas,minor,183509,183509
+Lagos de Moreno,21.3567,-101.9378,Mexico,MX,Jalisco,minor,172402,172402
+Comitán,16.2511,-92.1342,Mexico,MX,Chiapas,minor,170000,113479
+Chetumal,18.5036,-88.3053,Mexico,MX,Quintana Roo,admin,169028,169028
+San Andrés Tuxtla,18.4487,-95.2126,Mexico,MX,Veracruz,minor,164834,164834
+San Martin Texmelucan de Labastida,19.2833,-98.4333,Mexico,MX,Puebla,minor,152051,152051
+Kanasín,20.9344,-89.5578,Mexico,MX,Yucatán,minor,139753,139753
+Tultepec,19.6850,-99.1281,Mexico,MX,Estado de México,minor,131567,131567
+Apatzingan de la Constitucion,19.0886,-102.3508,Mexico,MX,Michoacán,,128250,128250
+Miramar,22.3375,-97.8694,Mexico,MX,Tamaulipas,,118614,118614
+Matamoros,25.5330,-103.2500,Mexico,MX,Coahuila,minor,118337,118337
+Ciudad Guzmán,19.7000,-103.4667,Mexico,MX,Jalisco,minor,115000,115000
+San Antonio Enchisi,19.7072,-99.7867,Mexico,MX,Estado de México,,110560,110560
+Martínez de la Torre,20.0667,-97.0500,Mexico,MX,Veracruz,minor,110415,110415
+La Piedad,20.3333,-102.0167,Mexico,MX,Michoacán,minor,106490,106490
+Parral,26.9333,-105.6667,Mexico,MX,Chihuahua,minor,104836,104836
+Rincón de Romos,22.2333,-102.3167,Mexico,MX,Aguascalientes,minor,94978,94978
+Coatepec,19.4522,-96.9614,Mexico,MX,Veracruz,minor,92127,92127
+Tenancingo,18.9608,-99.5906,Mexico,MX,Estado de México,minor,90946,90946
+Acayucan,17.9422,-94.9103,Mexico,MX,Veracruz,minor,83817,83817
+Apizaco,19.4167,-98.1333,Mexico,MX,Tlaxcala,minor,81565,81565
+Xicotepec de Juárez,20.3000,-97.9667,Mexico,MX,Puebla,,81455,81455
+Salina Cruz,16.1833,-95.2000,Mexico,MX,Oaxaca,,81063,81063
+Tala,20.6525,-103.7028,Mexico,MX,Jalisco,minor,80365,80365
+Ciudad Lerdo,25.5500,-103.5167,Mexico,MX,Durango,minor,79669,79669
+Ciudad Lázaro Cárdenas,17.9561,-102.1922,Mexico,MX,Michoacán,,79200,79200
+Cozumel,20.5104,-86.9493,Mexico,MX,Quintana Roo,minor,77236,77236
+Tacámbaro de Codallos,19.2356,-101.4569,Mexico,MX,Michoacán,minor,76661,76661
+Juchitán de Zaragoza,16.4333,-95.0194,Mexico,MX,Oaxaca,minor,74825,74825
+Silao,20.9478,-101.4281,Mexico,MX,Guanajuato,minor,74242,74242
+Perote,19.5620,-97.2420,Mexico,MX,Veracruz,minor,72795,72795
+Tejupilco,18.9058,-100.1528,Mexico,MX,Estado de México,minor,71077,71077
+San Miguel de Allende,20.9142,-100.7436,Mexico,MX,Guanajuato,minor,69811,69811
+Los Reyes de Salgado,19.5833,-102.4667,Mexico,MX,Michoacán,,69723,69723
+Rioverde,21.9300,-99.9800,Mexico,MX,San Luis Potosí,minor,69613,69613
+Ixtaczoquitlán,18.8500,-97.0667,Mexico,MX,Veracruz,minor,68823,68823
+Matehuala,23.6528,-100.6444,Mexico,MX,San Luis Potosí,minor,67717,67717
+Misantla,19.9333,-96.8500,Mexico,MX,Veracruz,minor,64249,64249
+Cortazar,20.4830,-100.9330,Mexico,MX,Guanajuato,minor,61658,61658
+Valle de Bravo,19.1925,-100.1306,Mexico,MX,Estado de México,minor,61559,61559
+Huatusco,19.1489,-96.9661,Mexico,MX,Veracruz,minor,60674,60674
+Altamira,22.3375,-97.8694,Mexico,MX,Tamaulipas,minor,59536,59536
+Huauchinango,20.1767,-98.0528,Mexico,MX,Puebla,minor,58957,58957
+Acámbaro,20.0361,-100.7314,Mexico,MX,Guanajuato,minor,57972,56597
+Cosamaloapan,18.3667,-95.8000,Mexico,MX,Veracruz,minor,57147,57147
+Chiapa de Corzo,16.7080,-93.0160,Mexico,MX,Chiapas,minor,55931,55931
+Pinotepa,16.3412,-98.0537,Mexico,MX,Oaxaca,minor,53148,53148
+Acatzingo,18.9817,-97.7822,Mexico,MX,Puebla,minor,52078,52078
+Huamantla,19.3133,-97.9228,Mexico,MX,Tlaxcala,minor,51996,51996
+Berriozábal,16.8003,-93.2733,Mexico,MX,Chiapas,minor,51722,36084
+Zumpango,19.7969,-99.0992,Mexico,MX,Estado de México,minor,50742,50742
+Francisco I. Madero,25.7753,-103.2731,Mexico,MX,Coahuila,minor,50084,50084
+San Pedro,25.7578,-102.9831,Mexico,MX,Coahuila,minor,49490,49490
+Catemaco,18.4167,-95.1167,Mexico,MX,Veracruz,minor,49451,49451
+Cintalapa de Figueroa,16.6978,-93.7203,Mexico,MX,Chiapas,minor,49201,49201
+Ocosingo,16.9072,-92.0961,Mexico,MX,Chiapas,minor,47688,47688
+Buena Vista Tomatlán,19.2102,-102.5869,Mexico,MX,Michoacán,,47498,47498
+Loreto,22.2667,-101.9833,Mexico,MX,Zacatecas,minor,43411,43411
+Isla,18.0292,-95.5264,Mexico,MX,Veracruz,minor,43349,43349
+Empalme,27.9617,-110.8125,Mexico,MX,Sonora,minor,38886,38886
+Tlapa de Comonfort,17.5461,-98.5764,Mexico,MX,Guerrero,minor,37975,37975
+Villaflores,16.2355,-93.2677,Mexico,MX,Chiapas,minor,37546,37546
+Paracho de Verduzco,19.6500,-102.0667,Mexico,MX,Michoacán,,37464,37464
+Salvatierra,20.2156,-100.8961,Mexico,MX,Guanajuato,minor,37203,37203
+Tonalá,16.0914,-93.7518,Mexico,MX,Chiapas,minor,35322,35322
+Zacatlán,19.9319,-97.9600,Mexico,MX,Puebla,minor,33736,33736
+Tulum,20.2119,-87.4658,Mexico,MX,Quintana Roo,minor,33374,33374
+Pánuco,22.0500,-98.1833,Mexico,MX,Veracruz,minor,33122,33122
+Sayula de Alemán,17.8833,-94.9500,Mexico,MX,Veracruz,minor,32721,32721
+Nueva Italia de Ruiz,19.0194,-102.1089,Mexico,MX,Michoacán,,32467,32467
+Escuinapa,22.9822,-105.7031,Mexico,MX,Sinaloa,minor,30790,30790
+Ometepec,16.6833,-98.4167,Mexico,MX,Guerrero,minor,30271,30271
+Ixtapan de la Sal,18.8333,-99.6833,Mexico,MX,Estado de México,minor,30073,30073
+Nanchital de Lázaro Cárdenas del Río,18.0667,-94.4167,Mexico,MX,Veracruz,minor,30039,30039
+Zapotiltic,19.6270,-103.4170,Mexico,MX,Jalisco,minor,29190,29190
+Reforma,17.8658,-93.1472,Mexico,MX,Chiapas,minor,29018,29018
+Abasolo,20.4511,-101.5289,Mexico,MX,Guanajuato,minor,29002,29002
+Pabellón de Arteaga,22.1500,-102.2667,Mexico,MX,Aguascalientes,minor,28633,28633
+Metepec,19.2511,-99.6047,Mexico,MX,Morelos,minor,28205,28205
+Motozintla,15.3632,-92.2477,Mexico,MX,Chiapas,minor,27815,27815
+Villagrán,20.5170,-100.9830,Mexico,MX,Guanajuato,minor,27079,27079
+Atlatlahucan,18.9350,-98.9000,Mexico,MX,Morelos,minor,25232,25232
+Álamo,20.9167,-97.6750,Mexico,MX,Veracruz,minor,25159,25159
+Ixhuatlancillo,18.9000,-97.1500,Mexico,MX,Veracruz,minor,24896,24896
+Jamay,20.2944,-102.7097,Mexico,MX,Jalisco,minor,24753,24753
+Zumpango del Río,17.6500,-99.5000,Mexico,MX,Guerrero,minor,24719,24719
+El Salto,23.7823,-105.3585,Mexico,MX,Durango,minor,24241,24241
+Rafael Delgado,18.8167,-97.0667,Mexico,MX,Veracruz,minor,23112,23112
+Comalapa,15.6602,-92.1411,Mexico,MX,Chiapas,minor,21727,21727
+Tixtla de Guerrero,17.5667,-99.4000,Mexico,MX,Guerrero,minor,21720,21720
+Sombrerete,23.6333,-103.6397,Mexico,MX,Zacatecas,minor,21702,21702
+Chapala,20.2961,-103.1911,Mexico,MX,Jalisco,minor,21596,21596
+Nogales,18.8167,-97.1667,Mexico,MX,Veracruz,minor,21113,21113
+Altepexi,18.3676,-97.3004,Mexico,MX,Puebla,minor,21100,21100
+Texistepec,17.9000,-94.8167,Mexico,MX,Veracruz,minor,20887,20887
+Atoyac de Álvarez,17.2000,-100.4333,Mexico,MX,Guerrero,minor,20515,20515
+Chiconcuac,19.5500,-98.9000,Mexico,MX,Estado de México,minor,19656,19656
+Cacahoatán,14.9898,-92.1681,Mexico,MX,Chiapas,minor,19108,19108
+Cherán,19.6833,-101.9500,Mexico,MX,Michoacán,minor,19081,19081
+Cotija de la Paz,19.8100,-102.7047,Mexico,MX,Michoacán,minor,19018,19018
+Santiago Ixcuintla,21.8110,-105.2079,Mexico,MX,Nayarit,minor,18365,18365
+Tepatlaxco,19.0667,-97.9667,Mexico,MX,Puebla,minor,17472,17472
+Mecayapan,18.2167,-94.8333,Mexico,MX,Veracruz,minor,17312,17312
+Nuevo San Juan Parangaricutiro,19.4000,-102.1333,Mexico,MX,Michoacán,minor,16745,16745
+Tatahuicapan,18.2500,-94.7667,Mexico,MX,Veracruz,minor,15614,15614
+Ayutla de los Libres,16.9000,-99.2167,Mexico,MX,Guerrero,minor,15370,15370
+Acala,16.5533,-92.8069,Mexico,MX,Chiapas,minor,15001,15001
+Técpan de Galeana,17.2500,-100.6833,Mexico,MX,Guerrero,minor,14638,14638
+Tepoztlán,18.9853,-99.0997,Mexico,MX,Morelos,minor,14130,14130
+San Fernando,16.8717,-93.2063,Mexico,MX,Chiapas,minor,11867,11867
+San Nicolás de los Ranchos,19.0667,-98.4833,Mexico,MX,Puebla,minor,11734,11734
+Altamirano,16.7361,-92.0389,Mexico,MX,Chiapas,minor,10618,10618
+Mexicaltzingo,19.2092,-99.5858,Mexico,MX,Estado de México,minor,10161,10161
+Cuencamé de Ceniceros,24.8667,-103.7000,Mexico,MX,Durango,minor,9848,9848
+Rayón,19.1481,-99.5800,Mexico,MX,Estado de México,minor,8590,8590
+General Zuazua,25.8949,-100.1080,Mexico,MX,Nuevo León,minor,,
+Los Reyes Acaquilpan,19.3606,-98.9800,Mexico,MX,Estado de México,minor,,
+San Antonio la Isla,19.1644,-99.5668,Mexico,MX,Morelos,minor,,
+Xico,19.2917,-98.9389,Mexico,MX,Estado de México,minor,,
+El Salto,20.5189,-103.1816,Mexico,MX,Jalisco,minor,,
+Arandas,20.7052,-102.3464,Mexico,MX,Jalisco,minor,,
+Carmen,25.9347,-100.3631,Mexico,MX,Nuevo León,minor,,
+Tlapacoyan,19.9617,-97.2108,Mexico,MX,Veracruz,minor,,
+Emiliano Zapata,18.8667,-99.1500,Mexico,MX,Morelos,minor,,
+Xalisco,21.4481,-104.9000,Mexico,MX,Nayarit,minor,,
+San Miguel el Alto,21.0301,-102.4041,Mexico,MX,Jalisco,minor,,
+Heróica Zitácuaro,19.4361,-100.3572,Mexico,MX,Michoacán,minor,,
+Cuautlancingo,19.0900,-98.2732,Mexico,MX,Puebla,minor,,
+Tuxpan,19.5556,-103.3759,Mexico,MX,Jalisco,minor,,
+Romita,20.8708,-101.5169,Mexico,MX,Guanajuato,minor,,
+Valle de Banderas,20.8000,-105.2333,Mexico,MX,Nayarit,minor,,
+Amozoc,19.0333,-98.0500,Mexico,MX,Puebla,minor,,
+Puente de Ixtla,18.6172,-99.3224,Mexico,MX,Morelos,minor,,
+Villa Vicente Guerrero,19.1190,-98.1700,Mexico,MX,Tlaxcala,minor,,
+Jalostotitlán,21.1674,-102.4639,Mexico,MX,Jalisco,minor,,
+Zinacatepec,18.3352,-97.2462,Mexico,MX,Puebla,minor,,
+Tarímbaro,19.7947,-101.1758,Mexico,MX,Michoacán,minor,,
+Tenango,19.1064,-99.5907,Mexico,MX,Estado de México,minor,,
+Ajalpan,18.3783,-97.2594,Mexico,MX,Puebla,minor,,
+Teocaltiche,21.4342,-102.5745,Mexico,MX,Jalisco,minor,,
+Tonanitla,19.6881,-99.0539,Mexico,MX,Estado de México,minor,,
+Villa Zaragoza,22.0354,-100.7310,Mexico,MX,San Luis Potosí,minor,,
+El Pueblito,20.5397,-100.4414,Mexico,MX,Querétaro,minor,,
+Cárdenas,17.9830,-93.3670,Mexico,MX,Tabasco,minor,,
+Moroleón,20.1333,-101.2000,Mexico,MX,Guanajuato,minor,,
+Mazatecochco,19.1787,-98.1868,Mexico,MX,Tlaxcala,minor,,
+Coatzintla,20.4870,-97.4682,Mexico,MX,Veracruz,minor,,
+Cosoleacaque,17.9979,-94.6354,Mexico,MX,Veracruz,minor,,
+Río Grande,23.8265,-103.0303,Mexico,MX,Zacatecas,minor,,
+Ciudad Mendoza,18.8033,-97.1808,Mexico,MX,Veracruz,minor,,
+Las Choapas,17.9118,-94.0965,Mexico,MX,Veracruz,minor,,
+Tlaquiltenango,18.6289,-99.1603,Mexico,MX,Morelos,minor,,
+Río Blanco,18.8304,-97.1560,Mexico,MX,Veracruz,minor,,
+El Grullo,19.8060,-104.2180,Mexico,MX,Jalisco,minor,,
+Yuriria,20.2108,-101.1321,Mexico,MX,Guanajuato,minor,,
+Ciudad de Armería,18.9378,-103.9642,Mexico,MX,Colima,minor,,
+San Mateo Atenco,19.2500,-99.5167,Mexico,MX,Morelos,minor,,
+Acolman,19.6389,-98.9083,Mexico,MX,Estado de México,minor,,
+Puruándiro,20.0881,-101.5156,Mexico,MX,Michoacán,minor,,
+Tierra Blanca,18.4489,-96.3572,Mexico,MX,Veracruz,minor,,
+Tezoyuca,19.5928,-98.9108,Mexico,MX,Estado de México,minor,,
+Jiquílpan de Juárez,19.9942,-102.7192,Mexico,MX,Michoacán,minor,,
+Poncitlán,20.3796,-102.9256,Mexico,MX,Jalisco,minor,,
+Yautepec de Zaragoza,18.8833,-99.0667,Mexico,MX,Morelos,minor,,
+Ixtlán del Río,21.0300,-104.3700,Mexico,MX,Nayarit,minor,,
+Ciudad de Nanacamilpa,19.4924,-98.5353,Mexico,MX,Tlaxcala,minor,,
+Jojutla,18.6152,-99.1798,Mexico,MX,Morelos,minor,,
+Izúcar de Matamoros,18.6000,-98.4667,Mexico,MX,Puebla,minor,,
+Altotonga,19.7661,-97.2451,Mexico,MX,Veracruz,minor,,
+Tingambato,19.5011,-101.8533,Mexico,MX,Michoacán,minor,,
+Ayotlán,20.5291,-102.3262,Mexico,MX,Jalisco,minor,,
+Coyuca de Benítez,17.0333,-100.0667,Mexico,MX,Guerrero,minor,,
+San José Iturbide,21.0000,-100.3833,Mexico,MX,Guanajuato,minor,,
+San José de Gracia,19.9892,-103.0256,Mexico,MX,Michoacán,minor,,
+Chignahuapan,19.8386,-98.0317,Mexico,MX,Puebla,minor,,
+Víctor Rosales,22.9484,-102.7027,Mexico,MX,Zacatecas,minor,,
+Tepalcingo,18.5951,-98.8451,Mexico,MX,Morelos,minor,,
+San Ignacio Cerro Gordo,20.7456,-102.5347,Mexico,MX,Jalisco,minor,,
+Zacapú,19.8140,-101.7916,Mexico,MX,Michoacán,minor,,
+Atlacomulco de Fabela,19.7992,-99.8750,Mexico,MX,Estado de México,minor,,
+Oluta,17.9282,-94.8969,Mexico,MX,Veracruz,minor,,
+Huimanguillo,17.8337,-93.3893,Mexico,MX,Tabasco,minor,,
+Soconusco,17.9631,-94.8810,Mexico,MX,Veracruz,minor,,
+Acaponeta,22.4964,-105.3594,Mexico,MX,Nayarit,minor,,
+Lerdo de Tejada,18.6294,-95.5197,Mexico,MX,Veracruz,minor,,
+Banderilla,19.5889,-96.9373,Mexico,MX,Veracruz,minor,,
+Yurécuaro,20.3411,-102.2824,Mexico,MX,Michoacán,minor,,
+Libres,19.4664,-97.6867,Mexico,MX,Puebla,minor,,
+Coscomatepec de Bravo,19.0728,-97.0469,Mexico,MX,Veracruz,minor,,
+Chapultepec,19.2022,-99.5618,Mexico,MX,Morelos,minor,,
+Cuitláhuac,18.8145,-96.7223,Mexico,MX,Veracruz,minor,,
+Ojocaliente,22.5667,-102.2500,Mexico,MX,Zacatecas,minor,,
+Agua Dulce,18.1391,-94.1453,Mexico,MX,Veracruz,minor,,
+Apaseo el Grande,20.5449,-100.6846,Mexico,MX,Guanajuato,minor,,

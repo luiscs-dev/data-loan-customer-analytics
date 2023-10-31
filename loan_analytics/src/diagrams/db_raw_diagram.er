@@ -1,0 +1,37 @@
+[raw_loan_data]
+    customer_id {label:"varchar"}
+    merchant_id {label:"integer""}
+    *loan_id {label:"varchar"}
+    application_date {label:"date"}
+    currency {label:"varchar"}
+    transaction_fee {label:"float"}
+    merchant_status {label:"varchar"}
+    store_id {label:"integer"}
+    term {label:"integer"}
+    risk_score {label:"float"}
+    disbursed_date {label:"date"}
+    loanamount {label:"Float64"}
+    paid_date {label:"date"}
+    city {label:"varchar"}
+    state {label:"varchar"}
+    channel {label:"varchar"}
+    is_disbursed {label:"Bool"}
+    first_vintage_pay {label:"Date32"}
+    full_name {label:"varchar"}
+    age {label:"integer"}
+    gender {label:"varchar"}
+    tel_number {label:"integer"}
+    email {label:"varchar"}
+    merchant_name {label:"varchar"}
+    merchant_size {label:"varchar"}
+    store_name {label:"varchar"}
+    fraud_score {label:"float"}
+[raw_repayment_data]
+    *loan_id {label:"varchar"}
+    installment_id {label:"varchar"}
+    installment_number {label:"integer"}
+    installment_duedate {label:"date"}
+    repaid_date {label:"date"}
+    capital_due {label:"float"}
+    capital_paid {label:"float"}
+    interests_paid {label:"float"}

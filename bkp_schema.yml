@@ -1,0 +1,25 @@
+version: 2
+
+models:
+  - name: stag_customer_id
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+  - name: stag_loan_id
+    columns:
+      - name: loan_id
+        tests:
+          - unique
+          - not_null
+      - name: currency
+        - accepted_values:
+                values: ['MXN']
+  - name: stag_loan_fact
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+      - name: loan_id
+        tests:
+          - not_null

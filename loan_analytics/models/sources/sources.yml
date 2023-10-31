@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: analytics_raw
+    tables:
+      - name: raw_loan_data
+      - name: raw_repayment_data
+      - name: mx_cities

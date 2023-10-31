@@ -1,0 +1,1 @@
+{{ generate_dates_dimension("2021-01-02", "2024-01-02") }} 

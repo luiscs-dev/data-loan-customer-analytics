@@ -1,0 +1,8 @@
+loan_analytics:
+  target: analytics_clickhouse
+  outputs:
+    analytics_clickhouse:
+      type: clickhouse
+      schema: analytics
+      user: default
+      password: ""

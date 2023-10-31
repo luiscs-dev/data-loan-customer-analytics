@@ -1,0 +1,30 @@
+name: 'loan_analytics'
+version: '1.0.0'
+config-version: 2
+
+profile: 'loan_analytics'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"  # directory which will store compiled SQL files
+clean-targets:         # directories to be removed by `dbt clean`
+  - "target"
+  - "dbt_packages"
+
+models:
+  loan_analytics:
+    staging:
+          materialized: table
+          schema: staging
+          tags:
+            - staging
+    report:
+          materialized: table
+          schema: report
+          tags:
+            - report

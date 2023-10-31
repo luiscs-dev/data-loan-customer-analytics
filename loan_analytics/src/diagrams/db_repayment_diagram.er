@@ -1,0 +1,35 @@
+[stag_date_dim]
+    *date_key {label:"date"}
+    year {label:"integer"}
+    quarter {label:"integer"}
+    month {label:"integer"}
+    week {label:"integer"}
+    day_of_year {label:"integer"}
+    day_of_month {label:"integer"}
+    day_of_week {label:"integer"}
+
+[stag_installment_dim]
+    *installment_id {label:"varchar"}
+    installment_number {label:"integer"}
+    installment_duedate {label:"date"}
+
+[stag_loan_dim]
+    *loan_id {label:"varchar"}
+    currency {label:"varchar"}
+    city {label:"varchar"}
+    state {label:"varchar"}
+    channel {label:"varchar"}
+    disbursed_date {label:"date"}
+    paid_date {label:"date"}
+
+[stag_installment_fact]
+    *installment_id {label:"varchar"}
+    +loan_id {label:"varchar"}
+    repaid_date {label:"date"}
+    capital_due {label:"float"}
+    capital_paid {label:"float"}
+    interests_paid {label:"float"}
+
+stag_date_dim 1--* stag_installment_fact
+stag_installment_dim 1--* stag_installment_fact
+stag_loan_dim 1--* stag_installment_fact
