@@ -60,6 +60,11 @@ Running on **http://127.0.0.1:4200**
 prefect start server
 ```
 
+To deploy our data flow
+```bash
+prefect deployment run 'Analytics/analytics_flow'
+```
+
 ### DWH 
 
 Running on **localhost:8123***
